@@ -1,5 +1,8 @@
 # Krypton
 
+### **Explanation about the name Krypton**
+I know Cryptocurrency writes with *Crypto* but as a great fan of Superman I just decided to use it's planet as my project name inspiration
+
 ### **Overview - About this project**
 This is a simple Cryptocurrency App using Clean Architecture (MVVM, Use Cases, Compose)  and also Jetpack Compose to show a modern **UI/UX**
 
