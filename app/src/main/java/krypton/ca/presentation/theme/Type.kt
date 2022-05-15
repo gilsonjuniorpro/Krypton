@@ -1,4 +1,4 @@
-package krypton.ca.ui.theme
+package krypton.ca.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
