@@ -11,7 +11,6 @@ import kotlinx.coroutines.flow.onEach
 import krypton.ca.common.Constants
 import krypton.ca.common.Resource
 import krypton.ca.domain.usecase.GetCoinUseCase
-import krypton.ca.domain.usecase.GetCoinsUseCase
 import javax.inject.Inject
 
 @HiltViewModel
