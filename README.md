@@ -14,28 +14,21 @@ Get coins route:
 https://api.coinpaprika.com/v1/coins
 
 Get a coin by ID route:
-https://api.coinpaprika.com/v1/coins/...
+https://api.coinpaprika.com/v1/coins/btc-bitcoin
 
 ### 📷 How is this App
-<img src="Screenshot_20220516-053554.png" width="25%"></img>
-<img src="Screenshot_20220516-053549.png" width="25%"></img>
 <img src="Screenshot_20220516-053545.png" width="25%"></img>
+<img src="Screenshot_20220516-053549.png" width="25%"></img>
+<img src="Screenshot_20220516-053554.png" width="25%"></img>
 
 
 ### 💻Technology
 - [Kotlin](https://kotlinlang.org/)
-- [Material](https://material.io/)
-- [Picasso](https://square.github.io/picasso/)
-- [Kenburnsview](https://github.com/flavioarfaria/KenBurnsView)
-- [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Dagger Hilt](https://dagger.dev/hilt/)
 
-### Libraries
-```bash
-    implementation 'com.google.android.material:material:1.1.0'
-    implementation 'com.squareup.picasso:picasso:2.71828'
-    implementation 'com.flaviofaria:kenburnsview:1.0.7'
-    implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.3'
- ```
+### References
+- https://www.youtube.com/watch?v=EF33KmyprEQ
  
 ### Donation
 If this project help you reduce time to develop, you can buy me a cup of coffee :) 
