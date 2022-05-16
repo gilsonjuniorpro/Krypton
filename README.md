@@ -17,11 +17,10 @@ Get a coin by ID route:
 https://api.coinpaprika.com/v1/coins/...
 
 ### 📷 How is this App
-<img src="image_20200415105612.png" width="25%"></img>
-<img src="image_20200415105654.png" width="25%"></img>
-<img src="image_20200415105712.png" width="25%"></img>
-<img src="image_20200415105728.png" width="25%"></img>
-<img src="image20200415105743.png" width="25%"></img>
+<img src="Screenshot_20220516-053554.png" width="25%"></img>
+<img src="Screenshot_20220516-053549.png" width="25%"></img>
+<img src="Screenshot_20220516-053545.png" width="25%"></img>
+
 
 ### 💻Technology
 - [Kotlin](https://kotlinlang.org/)
