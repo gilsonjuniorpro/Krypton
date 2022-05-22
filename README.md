@@ -7,14 +7,14 @@ This is a simple Cryptocurrency App using Clean Architecture (MVVM, Use Cases, C
 I know Cryptocurrency writes with *Crypto* but as a great fan of Superman I just decided to use it's planet as my project name inspiration
 
 For this API is used:
-Coin Paprika API
+- Coin Paprika API
 coinpaprika.com
 
 Get coins route:
-https://api.coinpaprika.com/v1/coins
+- https://api.coinpaprika.com/v1/coins
 
 Get a coin by ID route:
-https://api.coinpaprika.com/v1/coins/btc-bitcoin
+- https://api.coinpaprika.com/v1/coins/btc-bitcoin
 
 ### 📷 How is this App
 <img src="Screenshot_20220516-053545.png" width="25%"></img>
